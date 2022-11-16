@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "nombre": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/46/6b/466b0b47e932561b186c56358acbe55e.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Crimen y castigo",
+        "autor": "Fiódor Dostoievski",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/61WaZPvA8QL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_714727-MLA48736172766_012022-O.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "imagen": "https://covers.alibrate.com/b/59872e8acba2bce50c1a6d96/b0bf30dd-8585-4a46-9229-c72a94282fbe/share"
+    },
+    {
+        "id": 5,
+        "nombre": "Hamlet",
+        "autor": "William Shakespeare",
+        "imagen": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4862/9780486272788.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Otelo",
+        "autor": "William Shakespeare",
+        "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/03/25/0325d32c47295806911ff26f97f1622b.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "La señora Dalloway",
+        "autor": "Virginia Woolf",
+        "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/8d/78/8d784fb81e3a8ce1b0bf4270006cc927.jpg"
+    }
+
+]

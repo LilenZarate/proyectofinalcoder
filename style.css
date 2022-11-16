@@ -1,0 +1,112 @@
+body{
+    background-color: white;
+    margin:2%;
+    padding:2%;
+    text-align: center;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+footer {
+    border-bottom:2px solid aquamarine;
+    padding:1%;
+    text-align: center;
+}
+
+button{
+    margin-top: 0px;
+    padding: 10px 20px;
+    background-color: aquamarine;
+    color:black;
+    font-weight: bold;
+    margin-left: 2%;
+    border-radius: 5px;
+    border:1px solid  aquamarine;
+}
+
+button:hover{
+    color:  black;
+    background-color: white;
+    border:1px solid  black;
+    transition: all 0.2s ease;
+
+}
+
+table{
+    margin: 0 auto;
+    text-align: center;
+    margin-top:25px;
+    border:1px solid aquamarine;
+    width:500px;
+    border-radius: 5px;
+    
+}
+
+tr:nth-child(even){
+    background-color: rgb(228, 228, 228) ;
+    color: black;
+}
+
+th{
+    padding: 3%;
+    padding-bottom:1%;
+    border-bottom:1px solid aquamarine;
+}
+
+td{
+    padding: 3%;
+    padding-bottom:1%;
+}
+
+input {
+  font-family: inherit;
+  font-size: 100%;
+  margin-top: 30px;
+  margin-left: 5px;
+}
+
+.btnAceptar{
+    margin-top: 0px;
+    padding: 5px 10px;
+    color:black;
+    font-weight: bold;
+    margin-left: 2%;
+    border-radius: 5px;
+    border:1px solid  aquamarine;
+}
+
+#librosContainer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#cards {
+    padding: 1%;
+    border: 2px solid aquamarine;
+    border-radius: 5px;
+    margin: 1%;
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+
+#lbro {
+    display: block;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+#autor {
+    display: block;
+}
+
+#imagenes {
+    display: inline-block;
+    width: 80%;
+}
